@@ -1,2 +1,1 @@
-# game-dev-ylgy2-git.io
 
